@@ -1,3 +1,7 @@
+.body {
+    border:15px
+    background-color:gray;
+}
 .TitrePrin {
     background-color: blue;
     font-family: Arial, Helvetica, sans-serif;
