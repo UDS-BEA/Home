@@ -3,8 +3,6 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 120vh;
-    background: url('1.png') no-repeat;
-
     background-size: 100%;
 }
 .wrapper{
